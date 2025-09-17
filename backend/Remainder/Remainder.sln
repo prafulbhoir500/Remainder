@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remainder.API", "Remainder.API\Remainder.API.csproj", "{4149353B-F025-497C-9E44-219222120DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4149353B-F025-497C-9E44-219222120DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4149353B-F025-497C-9E44-219222120DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4149353B-F025-497C-9E44-219222120DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4149353B-F025-497C-9E44-219222120DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A04F95D-C2C2-46D5-AAA0-7E0A7BBC0B4C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\controllers\\notificationpreferencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\controllers\\notificationpreferencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\controllers\\remindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\controllers\\remindercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\remainder.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\remainder.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|d:\\development\\officepractice\\remainder\\backend\\remainder\\remainder.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4149353B-F025-497C-9E44-219222120DD7}|Remainder.API\\Remainder.API.csproj|solutionrelative:remainder.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\Entities\\User.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Entities\\User.cs",
+              "RelativeToolTip": "Remainder.API\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:57:11.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Remainder.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:39:59.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationPreferencesController.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\NotificationPreferencesController.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\Controllers\\NotificationPreferencesController.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\NotificationPreferencesController.cs",
+              "RelativeToolTip": "Remainder.API\\Controllers\\NotificationPreferencesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:33:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\Controllers\\TagsController.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "Remainder.API\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:33:09.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Remainder.API\\appsettings.json",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\appsettings.json",
+              "RelativeToolTip": "Remainder.API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T17:39:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Program.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\Program.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Program.cs",
+              "RelativeToolTip": "Remainder.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:40:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Remainder.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:32:46.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Remainder.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:32:28.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Remainder.API.http",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Remainder.API.http",
+              "RelativeDocumentMoniker": "Remainder.API\\Remainder.API.http",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Remainder.API.http",
+              "RelativeToolTip": "Remainder.API\\Remainder.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-13T17:40:33.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Remainder.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:44:46.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReminderController.cs",
+              "DocumentMoniker": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\ReminderController.cs",
+              "RelativeDocumentMoniker": "Remainder.API\\Controllers\\ReminderController.cs",
+              "ToolTip": "D:\\Development\\OfficePractice\\Remainder\\backend\\Remainder\\Remainder.API\\Controllers\\ReminderController.cs",
+              "RelativeToolTip": "Remainder.API\\Controllers\\ReminderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T07:26:54.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

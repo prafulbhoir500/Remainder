@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e1NaDAR0fA2Vo58eHCGEzvQgbJyOH60eWeXcL/k7zvI=",
+  "Source": "Remainder.API",
+  "BasePath": "_content/Remainder.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
